@@ -1,28 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" fill="none">
-  <g stroke="#058044" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M24 84c-7 10-10 22-11 35M216 84c7 10 10 22 11 35"/>
-    <path d="M34 80c-5 16-5 35 3 49M206 80c5 16 5 35-3 49"/>
-    <path d="M24 89c-7 8-12 18-15 28M216 89c7 8 12 18 15 28"/>
-    <path d="M28 106c-8 3-15 8-21 15M212 106c8 3 15 8 21 15"/>
-    <path d="M35 137c-5 15-5 30 1 43M205 137c5 15 5 30-1 43"/>
-    <path d="M28 155c-7 4-13 10-18 17M212 155c7 4 13 10 18 17"/>
-    <path d="M34 175c-4 9-4 17-1 25M206 175c4 9 4 17 1 25"/>
-    <path d="M42 190c-3 10-1 18 5 25M198 190c3 10 1 18-5 25"/>
-    <path d="M60 207c18 16 38 21 60 21s42-5 60-21"/>
-    <path d="M47 201c14 8 25 16 37 25M193 201c-14 8-25 16-37 25"/>
-    <path d="M60 77h120M54 82h132"/>
-    <path d="M60 77l-13 45M60 77l13 45M180 77l-13 45M180 77l13 45"/>
-    <path d="M39 122c12 13 30 15 34 0M167 122c4 15 22 13 34 0"/>
-    <path d="M45 122h27M168 122h27"/>
-    <path d="M120 77V48"/>
-    <path d="M120 48c-13 1-23-10-23-21 0-3 1-7 2-10 4 11 12 18 23 18 10 0 18-7 22-17 2 3 3 7 3 11 0 11-11 20-27 19Z"/>
-    <path d="M119 12l2 5 5 1-4 3 1 5-4-3-4 3 1-5-4-3 5-1 2-5Z" fill="#058044"/>
-    <path d="M58 144c17-9 37-10 62 0 25-10 45-9 62 0M53 155c20-8 42-7 67 2 25-9 47-10 67-2M49 166c22-6 45-3 71 6 26-9 49-12 71-6"/>
-    <path d="M70 130v25c13 5 29 8 50 8s37-3 50-8v-25c-13 6-30 8-50 8s-37-2-50-8Z"/>
-    <path d="M78 137c12 3 27 4 42 4s30-1 42-4"/>
-    <path d="M88 145h64M94 151h52"/>
-    <path d="M49 178c23 2 45 6 71 17 26-11 48-15 71-17M59 189c19 3 40 9 61 19 21-10 42-16 61-19"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none">
+  <defs>
+    <path id="academy-arc" d="M 42 112 A 120 120 0 0 1 278 112"/>
+  </defs>
+  <g fill="#00854a" stroke="#00854a" stroke-linecap="round" stroke-linejoin="round">
+    <text fill="#00854a" stroke="none" font-family="Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="1.5"><textPath href="#academy-arc" startOffset="50%" text-anchor="middle">PUNJAB JUDICIAL ACADEMY</textPath></text>
+    <path d="M160 42c-4 7-11 12-20 12 7 10 18 16 30 16 14 0 25-10 29-22-7 3-13 4-19 2-2-2-5-5-7-8-2 4-6 7-13 8Z"/>
+    <path d="M160 66v37M142 102h36" stroke-width="6" fill="none"/>
+    <path d="M154 36h12" stroke-width="2"/>
+    <path d="M160 30l2 5 6 1-4 4 1 6-5-3-5 3 1-6-4-4 6-1 2-5Z" stroke="none"/>
+    <path d="M58 111c-3 12-4 28-1 40M262 111c3 12 4 28 1 40" stroke-width="5" fill="none"/>
+    <path d="M58 112L42 161M58 112l16 49M262 112l-16 49M262 112l16 49" stroke-width="3" fill="none"/>
+    <path d="M32 159c11 15 28 20 47 0M241 159c19 20 36 15 47 0" stroke-width="5" fill="none"/>
+    <path d="M36 159h39M245 159h39" stroke-width="3"/>
+    <path d="M57 108h206M47 114h226" stroke-width="6" fill="none"/>
+    <path d="M112 174c14-10 34-14 48-5 14-9 34-5 48 5v45c-14-8-32-11-48-2-16-9-34-6-48 2v-45Z" stroke-width="4" fill="none"/>
+    <path d="M121 183c12-5 25-6 39 1 14-7 27-6 39-1v30c-12-5-25-6-39 1-14-7-27-6-39-1v-30Z" stroke-width="2" fill="none"/>
+    <path d="M130 193h60M130 202h60M130 211h60" stroke-width="2" fill="none"/>
+    <path d="M50 224c27 10 57 12 110 0 53 12 83 10 110 0" stroke-width="5" fill="none"/>
+    <path d="M45 238c28 11 64 14 115 2 51 12 87 9 115-2M41 252c29 11 66 14 119 3 53 11 90 8 119-3M39 267c32 10 69 12 121 2 52 10 89 8 121-2" stroke-width="4" fill="none"/>
+    <path d="M38 285c27 0 50 6 72 18 19 10 32 12 50 6 18 6 31 4 50-6 22-12 45-18 72-18" stroke-width="4" fill="none"/>
+    <path d="M40 150c-19 12-27 32-23 53 5 25 20 40 39 53M280 150c19 12 27 32 23 53-5 25-20 40-39 53" stroke-width="5" fill="none"/>
+    <path d="M29 167l-12 5M27 178l-14 2M28 190l-14-1M31 202l-13-5M291 167l12 5M293 178l14 2M292 190l14-1M289 202l13-5" stroke-width="4" fill="none"/>
+    <path d="M46 250c-17 10-26 24-29 42M274 250c17 10 26 24 29 42" stroke-width="5" fill="none"/>
+    <path d="M26 281c14 3 25 10 34 21M294 281c-14 3-25 10-34 21M67 285c-1 13 3 22 13 29M253 285c1 13-3 22-13 29" stroke-width="4" fill="none"/>
+    <path d="M97 293c14 5 26 8 33 17M223 293c-14 5-26 8-33 17M113 301c11 5 19 8 26 13M207 301c-11 5-19 8-26 13" stroke-width="4" fill="none"/>
   </g>
-  <text x="120" y="33" text-anchor="middle" fill="#058044" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">PUNJAB JUDICIAL ACADEMY</text>
-  <text x="120" y="149" text-anchor="middle" fill="#058044" font-family="Arial, sans-serif" font-size="8" font-weight="700">وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ</text>
 </svg>

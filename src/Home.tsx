@@ -281,11 +281,11 @@ export default function Home() {
               <motion.div
                 className="gate-panel gate-panel-left"
                 initial={{ x: "0%" }}
-                animate={{ x: "-101%" }}
+                animate={{ x: "-100%" }}
                 transition={{
-                  duration: 1.25,
-                  delay: 0.95,
-                  ease: [0.77, 0, 0.175, 1],
+                  duration: 1.45,
+                  delay: 0.7,
+                  ease: [0.65, 0, 0.35, 1],
                 }}
               >
                 <img
@@ -299,11 +299,11 @@ export default function Home() {
               <motion.div
                 className="gate-panel gate-panel-right"
                 initial={{ x: "0%" }}
-                animate={{ x: "101%" }}
+                animate={{ x: "100%" }}
                 transition={{
-                  duration: 1.25,
-                  delay: 0.95,
-                  ease: [0.77, 0, 0.175, 1],
+                  duration: 1.45,
+                  delay: 0.7,
+                  ease: [0.65, 0, 0.35, 1],
                 }}
               >
                 <img
